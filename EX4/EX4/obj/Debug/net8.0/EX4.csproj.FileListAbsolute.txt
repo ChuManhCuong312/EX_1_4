@@ -1,0 +1,14 @@
+C:\Users\toanc\source\repos\EX4\EX4\bin\Debug\net8.0\EX4.exe
+C:\Users\toanc\source\repos\EX4\EX4\bin\Debug\net8.0\EX4.deps.json
+C:\Users\toanc\source\repos\EX4\EX4\bin\Debug\net8.0\EX4.runtimeconfig.json
+C:\Users\toanc\source\repos\EX4\EX4\bin\Debug\net8.0\EX4.dll
+C:\Users\toanc\source\repos\EX4\EX4\bin\Debug\net8.0\EX4.pdb
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.AssemblyInfoInputs.cache
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.AssemblyInfo.cs
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.csproj.CoreCompileInputs.cache
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.dll
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\refint\EX4.dll
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.pdb
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\EX4.genruntimeconfig.cache
+C:\Users\toanc\source\repos\EX4\EX4\obj\Debug\net8.0\ref\EX4.dll
